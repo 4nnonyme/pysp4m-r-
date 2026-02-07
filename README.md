@@ -130,6 +130,6 @@ Active – updates coming soon
 ---
 
 ## 👤 Credits
-Developer: YOUR_NAME  
+Developer: Y4SSSSYN
 Language: Python  
 GUI: PySide6
